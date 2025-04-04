@@ -97,7 +97,7 @@ function selectAnswer(e) {
 
 function showScore() {
     resetState();
-    questionElemenet.innerHTML = `You scored ${score} out of ${questions.length}!`;
+    questionElement.innerHTML = `You scored ${score} out of ${questions.length}!`;
     nextButton.innerHTML = "Play Again?"
     nextButton.style.display = "block";
 }
