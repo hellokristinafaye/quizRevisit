@@ -103,7 +103,7 @@ function showScore() {
 }
 
 function handleNextButton() {
-    currentQuestionsIndex++;
+    currentQuestionIndex++;
     if (currentQuestionIndex < questions.length) {
         showQuestion();
     } else {
