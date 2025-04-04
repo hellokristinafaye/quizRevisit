@@ -1,6 +1,12 @@
 Overview:
 
+- Basic quiz app to practice HTML, CSS, and JavaScript
+
 Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
 
 Features:
 
